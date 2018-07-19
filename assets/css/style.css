@@ -1151,7 +1151,8 @@ button.btn-md:hover {
 
 /* Team section css */
 .main_team_area{
-    background: url(../images/teambg.jpg) no-repeat scroll top center;
+    /*background: url(../images/teambg.jpg) no-repeat scroll top center;*/
+	background-color: black;
     background-size: cover;
     position: relative;
     height: 650px;
